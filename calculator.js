@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', ()=>{
         
         calculate.addEventListener('click', () => {
-
+        //manuel
             let x = parseInt(number1.value);
             let y = parseInt(number2.value);
 
